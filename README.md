@@ -1,9 +1,9 @@
 # David Dobrik Coin ($DAVID)
 
-Unofficial parody meme site for `$DAVID` on Solana.
+Unofficial parody meme site for `$DAVID` on Ethereum.
 
 - Domain: https://daviddobrikcoin.lol
-- Buy (PumpSwap only): https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=6a81PfhejwCM3bB4F3Rnbzk9ALNmg4YGeyjKd5Nxpump
+- Buy (Uniswap only): https://app.uniswap.org/swap?chain=ethereum&outputCurrency=0x6e147CDeBe396E3AdFC79db11178f972946d35E2
 - X: https://x.com/daviddobrikcoin
 - No Telegram
 
